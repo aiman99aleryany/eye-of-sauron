@@ -51,7 +51,7 @@ body {
 }
 
 .eye::before {
-  transform: translate(-149.8%) rotate(180deg);
+  transform: translate(-150%) rotate(180deg);
 }
 
 .eye::after {
